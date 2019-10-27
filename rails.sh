@@ -131,5 +131,9 @@ rails db:migrate
 rails server
 
 ##visit 
+
 http://localhost:3000 
+
+https://www.youtube.com/watch?v=ABmt13zS7uM
+
 
