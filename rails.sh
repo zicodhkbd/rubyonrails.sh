@@ -1,6 +1,6 @@
 
 ##Installing Ruby
-
+# https://youtu.be/ABmt13zS7uM# 
 sudo apt install curl
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
@@ -134,6 +134,5 @@ rails server
 
 http://localhost:3000 
 
-https://www.youtube.com/watch?v=ABmt13zS7uM
 
 
